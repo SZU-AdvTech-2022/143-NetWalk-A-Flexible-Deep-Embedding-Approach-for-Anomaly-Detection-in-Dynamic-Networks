@@ -1,6 +1,6 @@
-@inproceedings{REPO-144,
+@inproceedings{REPO-143,
     author = "Yu, Wenchao and Cheng, Wei and Aggarwal, Charu C. and Zhang, Kai and Chen, Haifeng and Wang, Wei",
-    booktitle = "Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining",
+    booktitle = "Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery \\\& Data Mining",
     pages = "2672¨C2681",
     title = "{NetWalk: A Flexible Deep Embedding Approach for Anomaly Detection in Dynamic Networks}",
     year = "2018"
